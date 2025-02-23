@@ -34,5 +34,12 @@ Ensure that you have the following installed:
  
  git clone https://github.com/shwetagodse/Device360.git
 
+ The website can be seen as:
 
-
+ ![1](https://github.com/user-attachments/assets/1dcf94f2-6113-40d9-8013-4bbdc7cfe70f)
+![2](https://github.com/user-attachments/assets/0b821a3d-25bb-4890-8ba8-d2437ff149c9)
+![3](https://github.com/user-attachments/assets/bfd1adeb-f35a-4288-b28f-2529e9979d2e)
+![4](https://github.com/user-attachments/assets/97a65c66-fc20-4c8f-b786-5c2d12af39d7)
+![5](https://github.com/user-attachments/assets/2c41ea24-6b9c-49c8-b173-033e47ec1725)
+![6](https://github.com/user-attachments/assets/54372bf7-0971-49f9-a6de-f0fb8f4bf040)
+![7](https://github.com/user-attachments/assets/4b08f260-43ce-45bd-9130-b025c8721855)
